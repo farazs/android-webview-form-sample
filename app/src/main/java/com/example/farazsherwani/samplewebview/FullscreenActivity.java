@@ -42,7 +42,7 @@ public class FullscreenActivity extends AppCompatActivity {
     });
 
     mainWebView.setWebContentsDebuggingEnabled(true);
-    mainWebView.loadUrl("https://www.w3schools.com/html/html_forms.asp");
+    mainWebView.loadUrl("http://www.htmlquick.com/reference/tags/select.html#examples");
   }
 
 }
